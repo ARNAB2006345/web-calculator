@@ -30,10 +30,10 @@ The JavaScript file (**`script.js`**) includes key functions that control the ca
 - **`calculateResult()`**: Evaluates the arithmetic expression shown on the display. If the expression is valid, it displays the result; otherwise, it shows `"Error"`.
 
 ## How to Use ⚙️
-
+https://github.com/ARNAB2006345/web-calculator
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/himanshu7437/html-css-js-Calculator.git
+git clone https://github.com/ARNAB2006345/web-calculator
 ```
 
 ### 2. Open the `index.html` in your browser 🌐:
